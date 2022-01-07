@@ -1,3 +1,4 @@
+source,date,place
 https://i.pinimg.com/originals/93/ab/bb/93abbbd4ae7a51d2b58e86618a1330ef.jpg,1967,San Francisco
 https://i.pinimg.com/originals/cd/f6/5f/cdf65f914be3a3eef501a9c3ac7e65aa.jpg,1920,Edinburgh
 https://i.pinimg.com/originals/58/0a/42/580a425c9f5f20d0ff50f20169f67a05.jpg,1994,Tokyo
@@ -9,7 +10,7 @@ https://cdn.vox-cdn.com/thumbor/UEc-APhJ_b723uAW8mq_8tRwjX4=/1400x1050/filters:f
 https://images.freeskatemag.com/wp-content/uploads/2020/07/17124827/1995_j-bast_sf3.jpg,1995,San Francisco
 https://64.media.tumblr.com/93bb31a0f95b1b0c2ef720cf560f1fbf/tumblr_oncru7EaaY1tcqhjho1_1280.png,1926,New York
 https://d2v9ipibika81v.cloudfront.net/uploads/sites/50/324495-2-1.jpg,1925,Paris
-https://preview.redd.it/dlcur4w8l4t51.jpg?auto=webp&s=e4a0d19225dde26a8f5bcd04f280ef1b5ccc0ccc,1977,"Swampscott, MA"
+https://preview.redd.it/dlcur4w8l4t51.jpg?auto=webp&s=e4a0d19225dde26a8f5bcd04f280ef1b5ccc0ccc,1977,Massachusetts
 https://external-preview.redd.it/AaWAXmGFkNLgnxO6sWO1YWOBhO4MqlVH64asPBTmDoY.jpg?auto=webp&s=e7cd2c671aa46d1fdd66c9c4dfcca39ce6aeeff3,1980,New York
 https://flashbak.com/wp-content/uploads/2018/10/Las-Vegas-strip-1955.jpg,1955,Las Vegas
 https://live.staticflickr.com/65535/49213735386_987691578b_b.jpg,1976,Mexico City
