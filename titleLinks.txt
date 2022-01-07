@@ -21,8 +21,10 @@ https://pbs.twimg.com/media/DpiY5bbVAAAeMEM.jpg,1994,Hong Kong
 https://cdn.theatlantic.com/thumbor/DbZ60BPUrLlRH3qotPYd2XfJRSI=/1500x940/media/img/photo/2016/12/aleppo-before-the-war/a10_RTX2VYPV/original.jpg,2008,Aleppo
 https://www.sl.nsw.gov.au/sites/default/files/image_3.jpg,1900,Sydney
 https://s3-us-west-2.amazonaws.com/enterreno-production/moments/photos/000/001/534/original/media-image-ada1da88c475212e-31372e6a7067.jpg,1910,Chile
-https://upload.wikimedia.org/wikipedia/commons/9/98/Estacao_Rio_Claro_-SP_%281987%29.jpg,1987,Brazil
+https://preview.redd.it/70ujhtxc35a81.jpg?width=960&crop=smart&auto=webp&s=bc9bf970f73f08c3ef4ad9fb171bab8db633cdb6,1929,London
 https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ASC_Leiden_-_van_Achterberg_Collection_-_06_-_06_-_Vendeurs_de_bo%C3%AEtes_en_%C3%A9clisses_-_Djenn%C3%A9%2C_Mali_-_Nov.-d%C3%A9c._1983.jpg/2560px-ASC_Leiden_-_van_Achterberg_Collection_-_06_-_06_-_Vendeurs_de_bo%C3%AEtes_en_%C3%A9clisses_-_Djenn%C3%A9%2C_Mali_-_Nov.-d%C3%A9c._1983.jpg,1983,Mali
 https://upload.wikimedia.org/wikipedia/commons/0/0d/Los_Angeles_Pride_1987_016.jpg,1987,Los Angeles
 https://2.bp.blogspot.com/-T9I8BVUe0ss/XtgTV_ScwLI/AAAAAAAAXr0/i5g0ugHP6tweo2Oag70jdPufUcC2FkgNACLcBGAsYHQ/s1600/old-cairo-pictures%2B%252825%2529.jpg,1934,Egypt
 https://foreignpolicy.com/wp-content/uploads/2021/05/1-Paul-Kagame-Rwanda-Liberation-Day-AP_100704016474.jpg?w=1500,2010,Rwanda
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Korea_%2827971985000%29.jpg/800px-Korea_%2827971985000%29.jpg,1970,Korea
+https://sportindepth.com/wp-content/uploads/2020/09/wc-1970-1400x800.jpg,1970,Brazil
